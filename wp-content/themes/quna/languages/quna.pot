@@ -1,0 +1,397 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quna\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-21 16:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:231
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: functions.php:110 functions.php:119 functions.php:128 functions.php:137
+#: functions.php:146 functions.php:155
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/font-family.php:11
+msgid "Apply Google Fonts"
+msgstr ""
+
+#: inc/template-functions.php:75
+msgid "Behance"
+msgstr ""
+
+#: inc/customizer/font-family.php:42
+msgid "Body font CSS"
+msgstr ""
+
+#: inc/customizer/font-family.php:26
+msgid "Body font name and specs"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:49
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:50 template-parts/content-singular.php:21
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/page.php:61
+msgid "Disable comment on static homepage?"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:34
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-functions.php:84 inc/customizer/social.php:25
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/font-size.php:9
+msgid "Font Size"
+msgstr ""
+
+#: functions.php:117
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:126
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:135
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:144
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:153
+msgid "Footer 5"
+msgstr ""
+
+#: inc/template-functions.php:73
+msgid "GitHub"
+msgstr ""
+
+#: inc/customizer/font-family.php:9
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/template-functions.php:74
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer/font-size.php:94
+msgid "Heading 1"
+msgstr ""
+
+#: inc/customizer/font-size.php:117
+msgid "Heading 2"
+msgstr ""
+
+#: inc/customizer/font-size.php:140
+msgid "Heading 3"
+msgstr ""
+
+#: inc/customizer/font-size.php:163
+msgid "Heading 4"
+msgstr ""
+
+#: inc/customizer/font-size.php:186
+msgid "Heading 5"
+msgstr ""
+
+#: inc/customizer/font-size.php:209
+msgid "Heading 6"
+msgstr ""
+
+#: inc/customizer/font-family.php:77
+msgid "Heading font CSS"
+msgstr ""
+
+#: inc/customizer/font-family.php:61
+msgid "Heading font name and specs"
+msgstr ""
+
+#: inc/customizer/page.php:79
+msgid "Hide page title on static homepage?"
+msgstr ""
+
+#: inc/customizer/page.php:43
+msgid "Hide right sidebar on default page template?"
+msgstr ""
+
+#: inc/customizer/page.php:25
+msgid "Hide right sidebar on home/blog archive page?"
+msgstr ""
+
+#: inc/customizer/post.php:25
+msgid "Hide right sidebar on single post?"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://kharis.risbl.co"
+msgstr ""
+
+#. URI of the theme
+msgid "https://kharis.risbl.co/quna-wp/"
+msgstr ""
+
+#: footer.php:39
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/template-functions.php:90
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/social-feeds.php:25
+msgid "Instagram username (without @)"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Author of the theme
+msgid "Kharis Sulistiyono"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-functions.php:70
+msgid "Linkedin"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: header.php:52
+msgid "Menu"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Minimal WordPress with modern and clean design. Best for personal blog and "
+"small business."
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#. Name of the template
+msgid "No Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "No Sidebar Narrow"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:43
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/page.php:9
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content.php:61
+#: template-parts/content-singular.php:32
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/post.php:9
+msgid "Post"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/customizer/font-size.php:48
+msgid "Post/page title"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:42
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. Name of the theme
+msgid "Quna"
+msgstr ""
+
+#: template-parts/content-excerpt.php:39
+#: template-parts/content-excerpt-thumbnail.php:44
+msgid "Read more"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Name of the template
+msgid "Right Sidebar"
+msgstr ""
+
+#. %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/font-size.php:25
+msgid "Site title"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/social-feeds.php:9
+msgid "Social Feeds"
+msgstr ""
+
+#: inc/customizer/social.php:9
+msgid "Social Profiles"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: footer.php:47
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/customizer/social-feeds.php:26
+msgid ""
+"This requires <a href=\"https://wordpress.org/plugins/wp-instagram-widget/\" "
+"target=\"__blank\">the WP Instagram Widget</a> be activated"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: inc/template-functions.php:87
+msgid "Twitter"
+msgstr ""
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/template-functions.php:71
+msgid "VK"
+msgstr ""
+
+#: inc/customizer/font-size.php:71
+msgid "Widget title"
+msgstr ""
+
+#: inc/template-functions.php:72
+msgid "YouTube"
+msgstr ""
